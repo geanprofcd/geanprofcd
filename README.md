@@ -8,6 +8,8 @@ Sou licenciado em Computação pelo IF Sertão Pernambucano, faço pós em Ciên
 
 **VENDRA**: plataforma de atendimento, vendas e projetos com IA, em produção. Atende pelo WhatsApp, faz disparos e follow-ups, liga pelo WhatsApp, tem gestão de projetos, portal do cliente e um agente de IA (o V) que consulta o sistema respeitando o nível de acesso de cada pessoa. O código é privado; a arquitetura e as decisões estão no [estudo de caso](https://github.com/geanprofcd/vendra-estudo-de-caso).
 
+**PDrop**: portal para empresas receberem arquivos dos clientes, de qualquer aparelho e até sem internet. Também com código privado; veja o [estudo de caso](https://github.com/geanprofcd/pdrop-estudo-de-caso).
+
 Também faço automações para clientes com Make, n8n e APIs, como entrada de leads de anúncio direto no CRM de uma clínica e um programa Windows para a equipe editar as mensagens do WhatsApp sem abrir o Make.
 
 ## Projetos públicos
@@ -15,6 +17,7 @@ Também faço automações para clientes com Make, n8n e APIs, como entrada de l
 | Projeto | O que mostra |
 |---|---|
 | [vendra-estudo-de-caso](https://github.com/geanprofcd/vendra-estudo-de-caso) | Arquitetura, decisões técnicas e problemas reais resolvidos no VENDRA |
+| [pdrop-estudo-de-caso](https://github.com/geanprofcd/pdrop-estudo-de-caso) | Portal para receber arquivos com fila que funciona sem internet, regras de acesso no banco e marca própria |
 | portao-de-envio (em breve) | Como impedir que duas automações mandem a mesma mensagem ao mesmo cliente |
 | projeto de dados (em breve) | Análise com base pública, ligada à pós em Ciência de Dados |
 
