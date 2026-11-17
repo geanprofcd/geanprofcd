@@ -18,6 +18,7 @@ Também faço automações para clientes com Make, n8n e APIs, como entrada de l
 |---|---|
 | [vendra-estudo-de-caso](https://github.com/geanprofcd/vendra-estudo-de-caso) | Arquitetura, decisões técnicas e problemas reais resolvidos no VENDRA |
 | [pdrop-estudo-de-caso](https://github.com/geanprofcd/pdrop-estudo-de-caso) | Portal para receber arquivos com fila que funciona sem internet, regras de acesso no banco e marca própria |
+| [editor-whatsapp-estudo-de-caso](https://github.com/geanprofcd/editor-whatsapp-estudo-de-caso) | Editor de conversas de WhatsApp, recuperação automática do erro 131009 da Meta e leads de anúncio direto no CRM |
 | portao-de-envio (em breve) | Como impedir que duas automações mandem a mesma mensagem ao mesmo cliente |
 | projeto de dados (em breve) | Análise com base pública, ligada à pós em Ciência de Dados |
 
